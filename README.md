@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nathan@silvawebdesigns.com**
 
-- ⚡ Fun fact; **I love coffee, and beer.**
+- ⚡ Fun fact; **I love coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
