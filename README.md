@@ -6,7 +6,7 @@
 - 💬 Always happy to collaborate and chat about **web development**  
 - 📫 How to reach me: **nathan@silvawebdesigns.com**  
 - ⚡ Fun fact: **I love coffee ☕ and travelling the world 🌍**  
-  ✈️ Countries I’ve visited: 🇬🇧 🇵🇹 🇮🇹 🇨🇭 🇫🇷 🇪🇸 🇬🇮 🇧🇷 🇯🇵 🇲🇹
+  ✈️ Countries I’ve visited: 🇬🇧 🇵🇹 🇮🇹 🇨🇭 🇫🇷 🇪🇸 🇬🇮 🇧🇷 🇯🇵 🇲🇹 🇩🇪
 
 ---
 
