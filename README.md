@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nathan Miguel da Silva</h1>
-<h3 align="left">A passionate Full-Stack Developer from Portugal</h3>
+<h3 align="left">Full-Stack Developer from Portugal</h3>
 
 - 👨‍💻 All of my projects are available at [silvawebdesigns.com/portfolio](https://silvawebdesigns.com/portfolio)  
 - 📝 I regularly write articles on [silvawebdesigns.com/blog](https://silvawebdesigns.com/blog)  
