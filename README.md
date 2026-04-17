@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nathan Miguel da Silva</h1>
 
----
-
 ### 🚀 About Me
 
 Full-Stack Developer from Portugal 🇵🇹
