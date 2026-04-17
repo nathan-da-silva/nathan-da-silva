@@ -25,10 +25,10 @@ Building modern, scalable web applications with a focus on performance and UX.
 
 ### 🤝 Connect With Me
 
-<a href="https://twitter.com/silvawebdesigns"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nathan-da-silva/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32"/></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/1128694/nsilva"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="32"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/silvawebdesigns/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32"/></a>
+[![Twitter](https://img.shields.io/badge/-Twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/silvawebdesigns)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nathan-da-silva/)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-0A0A0A?style=for-the-badge&logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com/users/1128694/nsilva)
+[![Instagram](https://img.shields.io/badge/-Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/silvawebdesigns/)
 
 ---
 
