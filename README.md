@@ -34,22 +34,4 @@ Building modern, scalable web applications with a focus on performance and UX.
 
 ### 🛠️ Tech Stack
 
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/></a>&nbsp;
-<a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" width="40"/></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/></a>&nbsp;
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/></a>&nbsp;
-<a href="https://expressjs.com"><img src="https://cdn.simpleicons.org/express/white" alt="Express" width="40"/></a>&nbsp;
-<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/></a>&nbsp;
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/></a>&nbsp;
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/></a>&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/></a>&nbsp;
-<a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40"/></a>&nbsp;
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/></a>&nbsp;
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/></a>&nbsp;
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/></a>&nbsp;
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/></a>&nbsp;
-<a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40"/></a>&nbsp;
-<a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40"/></a>
-
-
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,php,postgres,mysql,tailwind,sass,docker,aws,git,figma,ps,ai)](https://skillicons.dev)
