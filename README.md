@@ -9,11 +9,9 @@ Building modern, scalable web applications with a focus on performance and UX.
 
 ### 🚀 About Me
 
-- 👨‍💻 Portfolio: [silvawebdesigns.com/portfolio](https://silvawebdesigns.com/portfolio)
-- 📝 Blog: [silvawebdesigns.com/blog](https://silvawebdesigns.com/blog)
-- 💬 Open to collaboration & web development discussions
-- 📫 Contact: **nathan@silvawebdesigns.com**
-- ⚡ Coffee lover ☕ + travel enthusiast 🌍
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silvawebdesigns.com/portfolio)
+[![Blog](https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white)](https://silvawebdesigns.com/blog)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nathan@silvawebdesigns.com)
 
 ---
 
