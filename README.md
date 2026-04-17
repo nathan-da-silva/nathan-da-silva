@@ -50,3 +50,6 @@ Building modern, scalable web applications with a focus on performance and UX.
 <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/></a>&nbsp;
 <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40"/></a>&nbsp;
 <a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40"/></a>
+
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,php,postgres,mysql,tailwind,sass,docker,aws,git,figma,ps,ai)](https://skillicons.dev)
