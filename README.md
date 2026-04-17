@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Nathan Miguel da Silva</h1>
-<h3 align="left">Full-Stack Developer from Portugal 🇵🇹</h3>
 
 ---
 
