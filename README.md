@@ -2,7 +2,7 @@
 <h3 align="left">Full-Stack Developer from Portugal 🇵🇹</h3>
 
 <p>
-  Building modern, scalable web applications with a focus on performance and UX.
+Building modern, scalable web applications with a focus on performance and UX.
 </p>
 
 ---
@@ -26,35 +26,35 @@
 ### 🤝 Connect With Me
 
 <a href="https://twitter.com/silvawebdesigns">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="32" />
-</a>&nbsp;
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32"/>
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nathan-da-silva/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32" />
-</a>&nbsp;
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32"/>
+</a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/1128694/nsilva">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="32" />
-</a>&nbsp;
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="32"/>
+</a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/silvawebdesigns/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="32" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32"/>
 </a>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /></a>&nbsp;
-<a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" width="40" height="40" /></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>&nbsp;
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></a>&nbsp;
-<a href="https://expressjs.com"><img src="https://cdn.simpleicons.org/express/white" alt="Express" width="40" height="40" /></a>&nbsp;
-<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /></a>&nbsp;
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a>&nbsp;
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /></a>&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>&nbsp;
-<a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" /></a>&nbsp;
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a>&nbsp;
-<a href="https://aws.amazon.com"><img src="https://cdn.simpleicons.org/amazonaws/white" alt="AWS" width="40" height="40" /></a>&nbsp;
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>&nbsp;
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>&nbsp;
-<a href="https://www.photoshop.com/en"><img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Photoshop" width="40" height="40" /></a>&nbsp;
-<a href="https://www.adobe.com/products/illustrator.html"><img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="Illustrator" width="40" height="40" /></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>&nbsp;
+<a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/white" width="40"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>&nbsp;
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>&nbsp;
+<a href="https://expressjs.com"><img src="https://cdn.simpleicons.org/express/white" width="40"/></a>&nbsp;
+<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>&nbsp;
+<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>&nbsp;
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>&nbsp;
+<a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>&nbsp;
+<a href="https://aws.amazon.com"><img src="https://cdn.simpleicons.org/amazonaws/white" width="40"/></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>&nbsp;
+<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>&nbsp;
+<a href="https://www.photoshop.com/en"><img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="40"/></a>&nbsp;
+<a href="https://www.adobe.com/products/illustrator.html"><img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="40"/></a>
