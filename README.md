@@ -19,7 +19,14 @@ Building modern, scalable web applications with a focus on performance and UX.
 
 ### ✈️ Travel
 
-🇬🇧 🇵🇹 🇮🇹 🇨🇭 🇫🇷 🇪🇸 🇬🇮 🏴 🇧🇷
+![UK](https://img.shields.io/badge/UK-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Portugal](https://img.shields.io/badge/Portugal-0A0A0A?style=for-the-badge)
+![Italy](https://img.shields.io/badge/Italy-0A0A0A?style=for-the-badge)
+![Switzerland](https://img.shields.io/badge/Switzerland-0A0A0A?style=for-the-badge)
+![France](https://img.shields.io/badge/France-0A0A0A?style=for-the-badge)
+![Spain](https://img.shields.io/badge/Spain-0A0A0A?style=for-the-badge)
+![Gibraltar](https://img.shields.io/badge/Gibraltar-0A0A0A?style=for-the-badge)
+![Brazil](https://img.shields.io/badge/Brazil-0A0A0A?style=for-the-badge)
 
 ---
 
