@@ -45,8 +45,8 @@ Building modern, scalable web applications with a focus on performance and UX.
 <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/></a>&nbsp;
 <a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40"/></a>&nbsp;
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/></a>&nbsp;
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonwebservices.svg" alt="AWS" width="40"/></a>&nbsp;
+<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/></a>&nbsp;
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/></a>&nbsp;
 <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/></a>&nbsp;
-<a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg" alt="Photoshop" width="40"/></a>&nbsp;
-<a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeillustrator.svg" alt="Illustrator" width="40"/></a>
+<a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40"/></a>&nbsp;
+<a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40"/></a>
