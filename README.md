@@ -3,6 +3,7 @@
 ### 🚀 About Me
 
 Full-Stack Developer from Portugal 🇵🇹  
+
 Building fast, scalable digital products with a strong focus on performance, clean architecture, and seamless user experience.
 
 - 💬 Open to collaboration and meaningful product discussions  
