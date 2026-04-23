@@ -1,13 +1,12 @@
-<h1 align="left">Hey {Ola} [Bonjour] 👋, I'm Nathan Miguel da Silva</h1>
+<h1 align="left">Hi 👋, I'm Nathan Miguel da Silva</h1>
 
 ### 🚀 About Me
 
-Full-Stack Developer from Portugal 🇵🇹
+Full-Stack Developer from Portugal 🇵🇹  
+Building fast, scalable digital products with a strong focus on performance, clean architecture, and seamless user experience.
 
-Designing and developing fast, scalable digital products with a focus on performance, architecture, and seamless UX
-
-- 💬 Open to collaboration and web development discussions  
-- ⚡ Coffee lover ☕  
+- 💬 Open to collaboration and meaningful product discussions  
+- ⚡ Coffee-powered ☕  
 - 🌍 Travel enthusiast  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silvawebdesigns.com/portfolio)
