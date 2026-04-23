@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Nathan Miguel da Silva</h1>
+<h1 align="left">Hey <Ola> [Bonjour] 👋, I'm Nathan Miguel da Silva</h1>
 
 ### 🚀 About Me
 
