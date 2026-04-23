@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Nathan Miguel da Silva</h1>
 
-Hey. Olá. Bonjour.
+*Hey. Olá. Bonjour.*
 
 ### 🚀 About Me
 
