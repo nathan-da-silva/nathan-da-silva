@@ -4,7 +4,7 @@
 
 Full-Stack Developer from Portugal 🇵🇹
 
-Building modern, scalable web applications with a focus on performance and UX.
+Designing and developing fast, scalable digital products with a focus on performance, architecture, and seamless UX
 
 - 💬 Open to collaboration and web development discussions  
 - ⚡ Coffee lover ☕  
