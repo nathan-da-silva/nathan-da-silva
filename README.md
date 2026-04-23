@@ -41,4 +41,4 @@ Building modern, scalable web applications with a focus on performance and UX.
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,php,postgres,mysql,tailwind,sass,docker,aws,git,figma,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,php,postgres,mysql,tailwind,sass,docker,aws,git,figma,ps,ai)](https://skillicons.dev)
