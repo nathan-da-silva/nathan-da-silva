@@ -7,6 +7,7 @@
 Full-Stack Developer from Portugal 🇵🇹  
 
 Building fast, scalable digital products — focused on performance, clean architecture, and seamless user experience.  
+
 Currently building production-ready applications at Crewfare.
 
 - 💬 Open to collaboration and meaningful product discussions  
